@@ -152,6 +152,11 @@ a {
   padding: 100px;
   z-index: 1;
 }
+.img-cal {
+  width: 30%;
+  margin-top: 600px;
+  margin-left: 450px;
+}
 .img2 {
   position: absolute;
   margin-top: 610px;
