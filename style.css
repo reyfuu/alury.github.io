@@ -80,6 +80,60 @@
   height: 35px;
   z-index: 1;
 }
+.btn-buy {
+  background-color: #49817b;
+  position: absolute;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  margin-top: 200px;
+  margin-left: 400px;
+  font-size: 15px;
+  width: 500px;
+  height: 50px;
+  z-index: 1;
+}
+.btn-buy2 {
+  background-color: #49817b;
+  position: absolute;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  margin-top: 200px;
+  margin-left: 400px;
+  font-size: 15px;
+  width: 500px;
+  height: 75px;
+  z-index: 1;
+}
+.btn-yes {
+  background-color: #49817b;
+  position: absolute;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  margin-top: 300px;
+  margin-left: 450px;
+  font-size: 15px;
+  width: 75px;
+  height: 50px;
+  cursor: pointer;
+  z-index: 1;
+}
+.btn-no {
+  background-color: #49817b;
+  position: absolute;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  margin-top: 302px;
+  margin-left: 800px;
+  font-size: 15px;
+  width: 75px;
+  height: 50px;
+  cursor: pointer;
+  z-index: 1;
+}
 .button-sign {
   background-color: #5fbbb1;
   border: none;
@@ -487,4 +541,13 @@ form .txt_field {
 }
 .hidden {
   color: white;
+}
+.ilus {
+  margin-top: 450px;
+  margin-left: 20px;
+}
+.ilus2 {
+  margin-top: 500px;
+  width: 30%;
+  margin-left: 800px;
 }
